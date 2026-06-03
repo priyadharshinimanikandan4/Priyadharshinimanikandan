@@ -14,34 +14,26 @@
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-```java
 public class Priyadharshini {
-
     String name         = "Priyadharshini M";
     String location     = "Chennai, India";
     String degree       = "B.Tech Information Technology (2023–Present)";
     double cgpa         = 8.46;
-
     String[] stack = {
         "Java", "Python", "C++",
         "Selenium WebDriver", "TestNG", "POM",
         "Postman", "REST APIs", "Spring Boot",
         "React.js", "MySQL", "MongoDB"
     };
-
     String[] currentlyLearning = {
         "Advanced Test Automation",
         "CI/CD with Jenkins",
         "Performance Testing"
     };
-
     String funFact = "I find bugs before they find users! 🐛";
-
-    String motto() {
-        return "Quality is never an accident — it is always the result of intelligent effort.";
+    String motto() {        return "Quality is never an accident — it is always the result of intelligent effort.";
     }
 }
-```
 
 <br clear="right"/>
 
@@ -131,7 +123,6 @@ public class Priyadharshini {
 <details>
   <summary>🏢 <strong>Data Analysis Intern</strong> — Zephyr Technologies &nbsp;|&nbsp; May 2025 – Jun 2025 &nbsp;|&nbsp; Bengaluru, India</summary>
   <br/>
-
   > `Python` `Tableau` `ETL` `Data Cleaning` `Data Validation` `COVID-19 Analytics`
 
   - Analyzed global COVID-19 datasets using Python and Tableau to surface trends and forecast surge patterns
@@ -144,7 +135,6 @@ public class Priyadharshini {
 <details>
   <summary>🤖 <strong>ML Intern</strong> — Shiash &nbsp;|&nbsp; Nov 2024 – Jan 2025 &nbsp;|&nbsp; Chennai, India</summary>
   <br/>
-
   > `Python` `Machine Learning` `Routefinder` `Resume Screening` `Plant Disease Prediction`
 
   - Built ML-powered solutions including a Routefinder, Resume Screening system, and Plant Disease Prediction model
@@ -199,7 +189,6 @@ public class Priyadharshini {
 </div>
 
 <br/>
-
 ```
 🧪 Test Automation   → Selenium Grid, Parallel Execution, CI Integration
 🔗 API Testing       → RestAssured, Newman, Contract Testing
