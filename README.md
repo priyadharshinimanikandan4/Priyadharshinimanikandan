@@ -162,9 +162,9 @@ public class Priyadharshini {
 
 | Project | Stack | Highlights |
 |---------|-------|------------|
-| [**Bug Tracking System**](https://github.com/priyadharshinimanikandan) | Spring Boot, React.js, MySQL, JWT, REST APIs | Full-stack app with role-based auth (Admin, Developer, Tester); CRUD + Postman-validated REST APIs; JWT authentication |
-| [**Social Media App Testing**](https://github.com/priyadharshinimanikandan) | Selenium, TestNG, POM, Jira | Automated auth, profile, messaging & notification modules; POM framework design; full defect lifecycle via Jira |
-| [**WellnessWave – Health Monitor**](https://github.com/priyadharshinimanikandan) | React.js, MongoDB, Node.js, HTML, CSS | Symptom tracking web app; responsive frontend with React.js; MongoDB integration for user health data storage |
+| [**Bug Tracking System**](https://github.com/priyadharshinimanikandan4) | Spring Boot, React.js, MySQL, JWT, REST APIs | Full-stack app with role-based auth (Admin, Developer, Tester); CRUD + Postman-validated REST APIs; JWT authentication |
+| [**Social Media App Testing**](https://github.com/priyadharshinimanikandan4) | Selenium, TestNG, POM, Jira | Automated auth, profile, messaging & notification modules; POM framework design; full defect lifecycle via Jira |
+| [**WellnessWave – Health Monitor**](https://github.com/priyadharshinimanikandan4) | React.js, MongoDB, Node.js, HTML, CSS | Symptom tracking web app; responsive frontend with React.js; MongoDB integration for user health data storage |
 
 </div>
 
