@@ -14,26 +14,43 @@
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-public class Priyadharshini {
-    String name         = "Priyadharshini M";
-    String location     = "Chennai, India";
-    String degree       = "B.Tech Information Technology (2023–Present)";
-    double cgpa         = 8.46;
-    String[] stack = {
-        "Java", "Python", "C++",
-        "Selenium WebDriver", "TestNG", "POM",
-        "Postman", "REST APIs", "Spring Boot",
-        "React.js", "MySQL", "MongoDB"
-    };
-    String[] currentlyLearning = {
-        "Advanced Test Automation",
-        "CI/CD with Jenkins",
-        "Performance Testing"
-    };
-    String funFact = "I find bugs before they find users! 🐛";
-    String motto() {        return "Quality is never an accident — it is always the result of intelligent effort.";
-    }
-}
+### Hi there! 👋
+
+🎓 **B.Tech Information Technology Student**  
+📍 **Chennai, India**  
+📊 **CGPA:** 8.46  
+
+### 🚀 What I Do
+- QA Automation Testing
+- API Testing
+- Full-Stack Development
+- Database Management
+
+### 💻 Technical Skills
+- Java
+- Python
+- C++
+- Selenium WebDriver
+- TestNG
+- Postman
+- REST APIs
+- Spring Boot
+- React.js
+- MySQL
+- MongoDB
+
+### 🌱 Currently Learning
+- Advanced Test Automation
+- CI/CD with Jenkins
+- Performance Testing
+
+### 🐛 Fun Fact
+> I find bugs before they find users!
+
+### ✨ Motto
+> Quality is never an accident — it is always the result of intelligent effort.
+
+
 
 <br clear="right"/>
 
