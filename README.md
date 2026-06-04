@@ -111,13 +111,6 @@
 
 ---
 
-## 🔥 Streak Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=priyadharshinimanikandan4&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
-</div>
-
----
 
 ## 📈 Activity Graph
 
@@ -127,13 +120,7 @@
 
 ---
 
-## 🏆 Trophy Wall
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=priyadharshinimanikandan4&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="GitHub Trophies"/>
-</div>
-
----
 
 ## 💼 Work Experience
 
